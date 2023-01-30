@@ -1,0 +1,2 @@
+*.gamespy.com.  A		XXX.XXX.XXX.XXX ~
+*.gamespy.net.  A		XXX.XXX.XXX.XXX ~

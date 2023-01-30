@@ -1,0 +1,10 @@
+Saturday, January 28, 2023 20:23:21 PM: ==Deadwood started==
+Saturday, January 28, 2023 20:23:21 PM: Deadwood version 3.2.11
+Saturday, January 28, 2023 20:23:21 PM: Deadwood: A DNS UDP non-recursive cache (IPv4-only)
+Saturday, January 28, 2023 20:23:21 PM: We bound to 1 addresses
+Saturday, January 28, 2023 20:23:21 PM: Could not open hash at dw_cache_bin for reading
+Sunday, January 29, 2023 20:34:46 PM: ==Deadwood started==
+Sunday, January 29, 2023 20:34:46 PM: Deadwood version 3.2.11
+Sunday, January 29, 2023 20:34:46 PM: Deadwood: A DNS UDP non-recursive cache (IPv4-only)
+Sunday, January 29, 2023 20:34:46 PM: We bound to 1 addresses
+Sunday, January 29, 2023 20:34:46 PM: Could not open hash at dw_cache_bin for reading

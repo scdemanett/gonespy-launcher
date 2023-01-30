@@ -29,13 +29,13 @@ function Show-Menu {
 function updateMaraDNSIP {
     Write-Host "Opening In Default Text Editor."
     Write-Host "`n"
-    Start-Process ./"maradns-2-0-15-win32\gamespydns.txt"
+    explorer "maradns-2-0-15-win32\gamespydns.txt"
 }
 
 function updateDeadwoodIP {
     Write-Host "Opening In Default Text Editor."
     Write-Host "`n"
-    Start-Process ./"Deadwood-3-2-11-win32\dwood3rc.txt"
+    explorer "Deadwood-3-2-11-win32\dwood3rc.txt"
 }
 
 function startMaraDNS {

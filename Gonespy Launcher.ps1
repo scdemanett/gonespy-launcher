@@ -54,7 +54,7 @@ function startDeadwood {
 function startGonespy {
     Write-Host "Launching Gonespy."
     Write-Host "`n"
-    Start-Process -FilePath "cmd.exe" -ArgumentList "/k java -jar bstormps3-0.2.jar" -WorkingDirectory ./"bstormps3-0.2" -PassThru
+    Start-Process -FilePath "cmd.exe" -ArgumentList "/k java -jar bstormps3-0.2.jar" -WorkingDirectory ./"bstormps3-0.2"
 }
 
 function uninstallDeadwood {
